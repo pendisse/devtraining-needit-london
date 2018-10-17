@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Zoom Meeting Services">e7c6e42fdb412300da37a0f2ca961942</catalog_item>
+        <catalog_variable>IO:e38af563db452300da37a0f2ca961938</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-15 17:37:22</sys_created_on>
+        <sys_id>ed7b31a3db452300da37a0f2ca96198e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>please_provide</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_ed7b31a3db452300da37a0f2ca96198e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-15 17:37:22</sys_updated_on>
+        <table/>
+        <ui_policy display_value="please provide when Question # 1 = other">6b4bf163db452300da37a0f2ca961936</ui_policy>
+        <variable>please_provide</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
